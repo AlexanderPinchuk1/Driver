@@ -1,0 +1,23 @@
+﻿  Building 'Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping Debug\Driver.inf
+  Stamping [Version] section with DriverVer=12/21/2020,16.18.33.48
+  Source.cpp
+  Driver.vcxproj -> D:\Study\ОСиСП\Driver\Debug\Driver.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Study\\Driver\Debug\Driver.sys
+  
+  Driver is 'Universal'.
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Study\ОСиСП\Driver\Debug\Driver\driver.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Study\\Driver\Debug\Driver\driver.cat
+  
